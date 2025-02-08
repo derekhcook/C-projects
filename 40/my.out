@@ -1,0 +1,11 @@
+7 - ((x * ((x + y) / (j - 3)) + y) / (4 - 2.5)) is nested correctly
+7 - ({x * [(x + y) / (j - 3)] + y} / (4 - 2.5)) is nested correctly
+((a + b) is nested incorrectly
+a + b( is nested incorrectly
+)a + b( is nested incorrectly
+{[(a + b) * 10 + c] * 10 + d} is nested correctly
+(((((((((()))))))))) is nested correctly
+(((((((((())))))))))) is nested incorrectly
+((((((((((()))))))))) is nested incorrectly
+(((((((((())))))))))( is nested incorrectly
+)(((((((((()))))))))) is nested incorrectly
