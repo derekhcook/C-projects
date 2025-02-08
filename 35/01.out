@@ -1,0 +1,28 @@
+1 0 0
+0 1 0
+0 0 1
+Matrix #1 is an identity matrix
+0 1
+1 0
+Matrix #2 is not an identity matrix
+1 0 0 1
+0 1 1 0
+0 1 1 0
+1 0 0 1
+Matrix #3 is not an identity matrix
+1
+Matrix #4 is an identity matrix
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Matrix #5 is an identity matrix
+1 2
+3 1
+Matrix #6 is not an identity matrix
+1 2
+3 4
+Matrix #7 is not an identity matrix
+1 -1
+-1 1
+Matrix #8 is not an identity matrix

@@ -1,0 +1,25 @@
+For vector aVector:
+ Using Indexing Mode = 5 # of occurrences = 5
+Using Iterators Mode = 5 # of occurrences = 5
+ Using Pointers Mode = 5 # of occurrences = 5
+
+For vector bVector:
+ Using Indexing Mode = 7.7 # of occurrences = 1
+Using Iterators Mode = 7.7 # of occurrences = 1
+ Using Pointers Mode = 7.7 # of occurrences = 1
+
+For vector cVector:
+ Using Indexing Mode = r # of occurrences = 4
+Using Iterators Mode = r # of occurrences = 4
+ Using Pointers Mode = r # of occurrences = 4
+
+For vector dVector:
+ Using Indexing Mode = GMC # of occurrences = 4
+Using Iterators Mode = GMC # of occurrences = 4
+ Using Pointers Mode = GMC # of occurrences = 4
+
+For vector v:
+ Using Indexing Mode = 99 # of occurrences = 8
+Using Iterators Mode = 99 # of occurrences = 8
+ Using Pointers Mode = 99 # of occurrences = 8
+
