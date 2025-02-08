@@ -1,0 +1,10 @@
+          0 base 10 = 0 base 16
+          1 base 10 = 1 base 16
+          2 base 10 = 2 base 16
+       3341 base 10 = D0D base 16
+ 2147483647 base 10 = 7FFFFFFF base 16
+         -1 base 10 = FFFFFFFF base 16
+         -2 base 10 = FFFFFFFE base 16
+      -3341 base 10 = FFFFF2F3 base 16
+-2147483647 base 10 = 80000001 base 16
+-2147483648 base 10 = 80000000 base 16

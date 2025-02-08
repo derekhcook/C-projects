@@ -1,0 +1,10 @@
+          0 base 10 = 0 base 8
+          1 base 10 = 1 base 8
+          2 base 10 = 2 base 8
+       3341 base 10 = 6415 base 8
+ 2147483647 base 10 = 17777777777 base 8
+         -1 base 10 = 37777777777 base 8
+         -2 base 10 = 37777777776 base 8
+      -3341 base 10 = 37777771363 base 8
+-2147483647 base 10 = 20000000001 base 8
+-2147483648 base 10 = 20000000000 base 8

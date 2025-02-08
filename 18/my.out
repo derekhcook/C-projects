@@ -1,0 +1,10 @@
+          0 base 10 = 0 base 32
+          1 base 10 = 1 base 32
+          2 base 10 = 2 base 32
+       3341 base 10 = 38D base 32
+ 2147483647 base 10 = 1VVVVVV base 32
+         -1 base 10 = 3VVVVVV base 32
+         -2 base 10 = 3VVVVVU base 32
+      -3341 base 10 = 3VVVSNJ base 32
+-2147483647 base 10 = 2000001 base 32
+-2147483648 base 10 = 2000000 base 32
