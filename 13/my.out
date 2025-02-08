@@ -1,0 +1,10 @@
+0 has 0 bits equal to 1 in its internal binary representation
+1 has 1 bit equal to 1 in its internal binary representation
+2 has 1 bit equal to 1 in its internal binary representation
+3341 has 6 bits equal to 1 in its internal binary representation
+2147483647 has 31 bits equal to 1 in its internal binary representation
+-1 has 32 bits equal to 1 in its internal binary representation
+-2 has 31 bits equal to 1 in its internal binary representation
+-3341 has 27 bits equal to 1 in its internal binary representation
+-2147483647 has 2 bits equal to 1 in its internal binary representation
+-2147483648 has 1 bit equal to 1 in its internal binary representation
