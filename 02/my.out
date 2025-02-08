@@ -1,0 +1,24 @@
+first = 1/-2
+second = -3/1
+third = 0/1
+Before Reduce() third = -3/4 After Reduce() third = -3/4
+Before Reduce() third = 3/4 After Reduce() third = 3/4
+Before Reduce() third = 3/-4 After Reduce() third = -3/4
+Before Reduce() third = -3/-4 After Reduce() third = 3/4
+Before Reduce() third = 25/45 After Reduce() third = 5/9
+Before Reduce() third = 8/99 After Reduce() third = 8/99
+Before Reduce() third = 1/1 After Reduce() third = 1/1
+Before Reduce() third = 2/1 After Reduce() third = 2/1
+Before Reduce() third = 129/6579 After Reduce() third = 1/51
+Before Reduce() third = 1935/249 After Reduce() third = 645/83
+Before Reduce() third = 1331/1651 After Reduce() third = 1331/1651
+Before Reduce() third = 2301/1079 After Reduce() third = 177/83
+Before Reduce() third = 3/1260 After Reduce() third = 1/420
+Before Reduce() third = 6/198 After Reduce() third = 1/33
+Before Reduce() third = 43/1935 After Reduce() third = 1/45
+Before Reduce() third = 207/6579 After Reduce() third = 23/731
+Before Reduce() third = 5/7 After Reduce() third = 5/7
+Before Reduce() third = -25/-35 After Reduce() third = 5/7
+Before Reduce() third = -83/1651 After Reduce() third = -83/1651
+Before Reduce() third = 127/-1079 After Reduce() third = -127/1079
+Before Reduce() third = 1079/1651 After Reduce() third = 83/127

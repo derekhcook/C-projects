@@ -1,0 +1,16 @@
+Your Name - CS 2336 - Lab 01
+
+715 -> 35 -> 15 -> 5 persistence = 3
+88 -> 64 -> 24 -> 8 persistence = 3
+27 -> 14 -> 4 persistence = 2
+100 -> 0 persistence = 1
+2147483647 -> 903168 -> 0 persistence = 2
+2147483648 -> 1032192 -> 0 persistence = 2
+999 -> 729 -> 126 -> 12 -> 2 persistence = 4
+1234 -> 24 -> 8 persistence = 2
+12345 -> 120 -> 0 persistence = 2
+123456 -> 720 -> 0 persistence = 2
+1234567 -> 5040 -> 0 persistence = 2
+12345678 -> 40320 -> 0 persistence = 2
+123456789 -> 362880 -> 0 persistence = 2
+1234567890 -> 0 persistence = 1
